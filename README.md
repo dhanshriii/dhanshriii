@@ -1,4 +1,3 @@
-![logo](https://github.com/dhanshriii/dhanshriii/blob/main/Keep%20moving%2C.png)
 <h1 align="center">Hi 👋, I'm Dhanshri</h1>
 <h3 align="center">I'm on a journey to become a data scientist, and my enthusiasm for data analysis and machine learning drives my pursuit</h3>
 
