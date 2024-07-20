@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanshri</h1>
 <h3 align="center">I'm on a journey to become a data scientist, and my enthusiasm for data analysis and machine learning drives my pursuit</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshriii&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshriii" /> </p>
 
