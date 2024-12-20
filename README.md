@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhanshri</h1>
-<h3 align="center">I'm on a journey to become a data scientist, and my enthusiasm for data analysis and machine learning drives my pursuit</h3>
+<h3 align="center">I'm on a journey to become a Tech Enthusiast.<br>
+  Learning drives my pursuit</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshriii&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshriii" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **Data**
+- 🌱 I’m currently Exploring Myself
+  
+- 💬 Ask me about Anything and Everything
 
 - 📫 How to reach me **dhanshripchaudhari@gmail.com**
 
